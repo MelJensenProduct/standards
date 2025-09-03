@@ -14,7 +14,7 @@
  
 ---
 
-## Purpose
+## Entity Purpose
 The Order entity represents the core transaction record in commerce and retail systems. It typically resides within Order Management Systems (OMS), Commerce Engines, Point of Sale (POS) systems, and Enterprise Resource Planning (ERP) solutions. The order model encapsulates crucial information about customer purchases, including item details, shipping information, payment data, and order status. It serves as the central data structure driving fulfillment processes, financial transactions, and customer communication workflows.
 
 The 'Order' entity represents:
